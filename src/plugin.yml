@@ -1,0 +1,6 @@
+name: hanging
+version: 1.0.0
+author: sl4v
+api-version: 1.14
+description: A Plugin that allows players to hang animals
+main: me.sl4v.hanging.HangingMain
